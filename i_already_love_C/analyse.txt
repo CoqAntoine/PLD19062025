@@ -1,0 +1,11 @@
+1. Quelle bibliotheque doit-on inclure pour utiliser printf ?
+
+<stdio.h>
+
+2. Citer 2 autres fonctions de cette meme bibliotheque ?
+
+puts / putchar
+
+3. Decomposer la signature de la fonction main : Quels sont les 3 elements qui composent la signature de la fonction main ?
+
+int main(void) => [return type] [nom de la fonction] ([parametre 1, parametre 2...])
