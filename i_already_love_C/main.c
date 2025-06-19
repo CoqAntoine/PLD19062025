@@ -9,18 +9,8 @@
 
 int main(void)
 {
-int number;
-
 printf("Hello PLD!\n");
-for (number = 1 ; number <= 10 ; ++number)
-{
-	printf("Tour %d\n", number);
-}
-while (number <= 20)
-{
-	printf("Tour %d\n", number);
-	number++;
-}
 multiply(35, 57);
+printf("L'anniversaire d'Axel est le 12 Juillet de cette annee\n");
 return (0);
 }
